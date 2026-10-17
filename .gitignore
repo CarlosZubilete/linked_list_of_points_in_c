@@ -1,0 +1,4 @@
+/obj/
+/linked_list
+*.o
+profile.md
